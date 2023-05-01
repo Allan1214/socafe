@@ -641,8 +641,8 @@ footer a:hover {
         visibility: visible;
     }
 
-    .next,
-    .prev {
+    .section-1 .next,
+    .section-1 .prev {
         visibility: visible;
     }
 }
